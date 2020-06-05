@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/code/analysis/武汉加油.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/全国大学生同上一堂疫情防控思政大课_你有什么观后感.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/如何看待世界疫情对中国经济的影响.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/如果世界疫情无法控制住_中国疫情控制住了_世界经济会怎样发展_对中国经济的影响如何.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/政府的救助措施.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/欧美的疫情会严重到什么程度.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/疫情传播.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/疫情对经济的影响.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/疫情救治.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/疫情防控.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/raw_data/这次疫情对你家庭经济有哪些影响.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/政府的救助措施.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/疫情传播.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/疫情对经济的影响.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/疫情救治.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/疫情防控.txt" charset="GBK" />
+  </component>
+</project>
